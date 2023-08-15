@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App is a simple Task manager for me to learn Rails.
 
-Things you may want to cover:
+* Ruby version: 7.0.7
 
-* Ruby version
+* Database: For testing and learning purposes I use a SQLite Database
 
-* System dependencies
+* Thats it. Thank you for your interest.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I made this project as part of my LeWagon Fullstack Bootcamp.
